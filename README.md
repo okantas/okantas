@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](http://ww25.rishavchanda.io/?subid1=20230722-0658-0989-87bb-81b1ce438335)
 <h1 align="center">Hi 👋, I'm Okan</h1>
 <h3 align="center">A great Web developer</h3>
-<img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding">
+<img align="right" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=okantas&label=Profile%20views&color=0e75b6&style=flat" alt="okantas" /> </p>
 
