@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **okantas954@gmail.com**
 
-- ⚡ Fun fact **check my instagram you are gonna see how fun I am**
+- ⚡ Fun fact **check my instagram you are gonna see that how fun I am**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
