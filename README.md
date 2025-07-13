@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/okantas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="okantas" height="30" width="40" /></a>
 <a href="https://instagram.com/kodumun.muhendisi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kodumun.muhendisi" height="30" width="40" /></a>
 <a href="https://medium.com/@okantas954" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@okantas954" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@krokantech8284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@krokantech8284" height="30" width="40" /></a>
+<a href="https://youtube.com/@krokantech?si=S70xHtfLypKxaVtw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@krokantech8284" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
