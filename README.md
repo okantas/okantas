@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=okantas&label=Profile%20views&color=0e75b6&style=flat" alt="okantas" /> </p>
 
 
-- 🌱 I’m currently practicing **React and Frameworks**
+- 🌱 I’m currently practicing **Python**
 
 - 📝 I regularly write articles on [https://medium.com/@okantas954](https://medium.com/@okantas954)
 
